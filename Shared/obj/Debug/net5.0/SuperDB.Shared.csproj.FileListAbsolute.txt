@@ -1,0 +1,12 @@
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\bin\Debug\net5.0\SuperDB.Shared.deps.json
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\bin\Debug\net5.0\SuperDB.Shared.dll
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\bin\Debug\net5.0\SuperDB.Shared.pdb
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.csproj.AssemblyReference.cache
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.AssemblyInfoInputs.cache
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.AssemblyInfo.cs
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.dll
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\refint\SuperDB.Shared.dll
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\SuperDB.Shared.pdb
+C:\Users\SAMUEL OLUROTIMI\source\repos\SuperDB\SuperDB\Shared\obj\Debug\net5.0\ref\SuperDB.Shared.dll
